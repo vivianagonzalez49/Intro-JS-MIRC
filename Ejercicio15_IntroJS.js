@@ -4,7 +4,7 @@ Por ejemplo, si el usuario ingresa el número 5, el programa debe imprimir 15 (1
 let userNumber = parseInt(prompt("Por favor digite el número: "));
 let sum = 0;
 
-for (i=1; i<(userNumber+1); i++) {
+for (i = 1; i < (userNumber+1); i++) {
   sum += i;
 }
 console.log(`La suma es: ${sum}`);
