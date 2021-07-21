@@ -1,3 +1,4 @@
+//pide la frase al user
 const phrase = prompt('Por favor ingrese la frase: ')
 
 /* seaparar el texto en palabras */
